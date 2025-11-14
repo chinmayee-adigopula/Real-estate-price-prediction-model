@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Notebook outputs / workspace files
+*.ipynb_checkpoint
+
+# Large media or data (optional — edit as you need)
+*.mp4
+*.mov
+*.avi
+*.gif
+
+
+# VSCode
+.vscode/
