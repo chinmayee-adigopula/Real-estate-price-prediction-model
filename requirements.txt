@@ -2,8 +2,8 @@ streamlit
 numpy
 pandas
 scikit-learn
-scipy==1.16.0
+scipy
 matplotlib
 seaborn
-joblib==1.5.1
+joblib
 streamlit-lottie
